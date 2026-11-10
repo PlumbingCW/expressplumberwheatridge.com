@@ -293,3 +293,6 @@ main p,main li,main td{overflow-wrap:anywhere}
 .postlist{margin-top:32px}
 @media (max-width:560px){.vanband{padding-top:24px}.vanband img{aspect-ratio:4/3;border-radius:16px}}
 .vanband{padding-bottom:40px}
+
+.nbhd-grid{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}.nbhd-chip{display:inline-block;padding:10px 16px;border:1px solid #d9d8ee;border-radius:999px;background:#fff;color:#2C2C82;font-weight:700;text-decoration:none}.nbhd-chip:hover{background:#3E3EA8;color:#fff}
+.head2{overflow-wrap:anywhere}
